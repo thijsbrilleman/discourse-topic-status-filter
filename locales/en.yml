@@ -1,5 +1,5 @@
 en:
   topic_status_filter:
-    all: "all"
+    assigned: "assigned to me"
     open: "open"
     closed: "closed"
